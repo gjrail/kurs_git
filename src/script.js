@@ -9,3 +9,8 @@ function goodbye(argument) {
 function thanks(argument) {
     // Something for work
 }
+
+function new_func(argument){
+    // code new
+    // We created some nwe features
+}
