@@ -12,4 +12,5 @@ function thanks(argument) {
 
 function new_func(argument){
     // code new
+    // We created some nwe features
 }
